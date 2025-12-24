@@ -16,7 +16,6 @@ temp/
 
 # 输出文件
 output.txt
-*.txt
 
 # 系统文件
 .DS_Store
