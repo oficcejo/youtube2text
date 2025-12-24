@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# 临时文件
+temp/
+*.mp3
+*.wav
+*.m4a
+
+# 输出文件
+output.txt
+*.txt
+
+# 系统文件
+.DS_Store
+Thumbs.db
